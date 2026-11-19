@@ -7,7 +7,7 @@
 		<constructor-arg type="int" value="10" />
 		<constructor-arg type="java.lang.String" value="ABC" />
 		<constructor-arg type="java.lang.String" value="Pune" />
-		<constructor-arg type="double" value="82.12" />
+		<constructor-arg type="double" value="82.11" />
 
 	</bean>
 </beans>
